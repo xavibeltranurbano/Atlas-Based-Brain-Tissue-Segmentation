@@ -1,5 +1,5 @@
 # A Hybrid Approach for Brain Tissue Segmentation: Integrating Gaussian Mixture Models with Atlas-based and Tissue Modeling Techniques
-Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann) and Xavier Beltran Urbano
+Authors: [Frederik Hartmann](https://frederik-hartmann.github.io/) and Xavier Beltran Urbano
 
 ## Setting Up the Project
 1. Clone the project:
