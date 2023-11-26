@@ -56,7 +56,7 @@ Probabilistic Atlas Into GMM algorithm</em>
 </p>
 
 <p align="center">
-  <img src="img/results.png" alt="Example of the different modalities of the dataset" width="400"/>
+  <img src="img/MNI.png" alt="Example of the different modalities of the dataset" width="400"/>
   <br>
   <em>Fig. 3: Example of the segmentation by employing the MNI atlas. A) Original Image, B) Ground Truth, C) Best segmentation by
 employing our atlas, D) MNI segmentation</em>
