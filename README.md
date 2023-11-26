@@ -1,4 +1,5 @@
 # A Hybrid Approach for Brain Tissue Segmentation: Integrating Gaussian Mixture Models with Atlas-based and Tissue Modeling Techniques
+Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann) and Xavier Beltran Urbano
 
 ## Dataset
 The dataset used for this laboratory contains 20 cases, each with a T1-weighted scan and a ground truth (GT) consisting of segmentation masks for white matter (WM), grey matter (GM), and cerebrospinal fluid (CSF). A registration step was performed prior to the segmentation to register the atlas, i.e., the mean image, to the target. 
